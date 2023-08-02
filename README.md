@@ -3,10 +3,10 @@ ini adalah imlementasi React, Datatable, dan React Bootstrap saya.
 
 ![Dokumentasi](./doc/doc.gif)
 
-# Author
+## Author
 Rizqi Pratama (@RizqiKazuKun)
 
-# Repo
+## Repo
 https://github.com/rizqikazukun/Frontend-React-Datatable
 
 ## Tech Stack
